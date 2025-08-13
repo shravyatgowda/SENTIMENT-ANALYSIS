@@ -94,3 +94,7 @@ By completing this task, the ability to work with large-scale text data, preproc
 
 #Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f5922827-a63a-4bf6-914a-1f697a34d226" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a86f1d0-a16d-4eb2-a9b9-a311bd1e1cd5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/237f1dd2-5008-4b2a-9470-abd93135e69a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/160679bc-8075-4506-b811-d4a7d5ae33ff" />
